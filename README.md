@@ -1,6 +1,6 @@
 # GitHub User Search App
 
-This project is a GitHub user search app built with React, TypeScript, and Tailwind CSS. The app allows users to search for GitHub users, view a list of their repositories, and add repositories to their favorites.
+This project is a GitHub user search app built with React, TypeScript, and Tailwind CSS. The app allows users to search for GitHub users, view a list of their repositories, and add repositories to favorites.
 
 ## Features
 
