@@ -35,6 +35,4 @@ To run the app locally on your machine, follow these steps:
 
 If you wish to contribute to this project, feel free to submit a pull request. All contributions are welcome!
 
-## Acknowledgments
-
 Enjoy searching GitHub users and exploring their repositories!
